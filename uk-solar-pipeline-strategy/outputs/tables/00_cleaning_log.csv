@@ -1,0 +1,10 @@
+step,records
+Rows in REPD extract,14657
+Solar PV and battery records,10138
+Dropped: capacity blank or not a number,1080
+Dropped: 'Revised' records superseded by a newer application (avoids double counting),446
+"Dropped: below 1 MW (REPD threshold fell from 1 MW to 150 kW in 2021, so smaller projects are only consistently recorded from 2021)",3725
+Dropped: offshore or region missing,1
+Flagged: at least one event date after the extract date (likely data entry error),1
+Flagged: decision dated before submission (duration set to blank),0
+Final analysis set (projects),4886

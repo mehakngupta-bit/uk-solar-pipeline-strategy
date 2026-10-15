@@ -1,0 +1,13 @@
+Region,applications_2021_24,gw_applied_2021_24,approval_rate,median_weeks_to_decision,consents_2019_22,build_out_rate,gw_consented_not_built,gw_stalled_consented_by_2022,build_out_ci_low,build_out_ci_high,ranked,quadrant
+Eastern,236,12.135,0.948,34.857,95,0.463,10.324,1.612,0.381,0.547,True,Go now
+Wales,85,5.207,0.934,35.143,26,0.462,4.416,0.158,0.312,0.618,True,Selective niche
+East Midlands,177,16.058,0.942,37.857,59,0.458,14.496,0.917,0.355,0.564,True,Go now
+South East,211,9.634,0.917,32.5,75,0.453,9.395,0.863,0.362,0.548,True,Go now
+West Midlands,177,7.179,0.941,31.857,53,0.434,5.537,1.13,0.328,0.546,True,Selective niche
+South West,247,8.413,0.922,36.857,92,0.424,6.879,1.0,0.343,0.51,True,Deprioritise
+North West,141,9.315,0.946,28.643,60,0.417,7.14,0.785,0.318,0.523,True,Deprioritise
+Scotland,359,26.395,0.928,37.571,95,0.4,20.546,2.358,0.321,0.484,True,Crowded: grid-first only
+London,9,0.209,0.833,8.0,6,0.333,0.33,0.025,0.117,0.653,False,Too few consents to rank
+Yorkshire and Humber,175,15.129,0.994,33.286,59,0.305,15.025,1.957,0.217,0.41,True,Crowded: grid-first only
+North East,78,3.911,0.944,31.571,31,0.258,2.601,0.673,0.152,0.403,True,Deprioritise
+Northern Ireland,33,1.634,1.0,54.286,2,0.0,1.191,0.104,0.0,0.575,False,Too few consents to rank
